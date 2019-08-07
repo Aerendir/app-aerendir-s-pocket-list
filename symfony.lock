@@ -82,6 +82,12 @@
             "src/Kernel.php"
         ]
     },
+    "symfony/http-client": {
+        "version": "v4.3.3"
+    },
+    "symfony/http-client-contracts": {
+        "version": "v1.1.5"
+    },
     "symfony/http-foundation": {
         "version": "v4.3.3"
     },
@@ -123,6 +129,9 @@
     },
     "symfony/service-contracts": {
         "version": "v1.1.5"
+    },
+    "symfony/var-dumper": {
+        "version": "v4.3.3"
     },
     "symfony/var-exporter": {
         "version": "v4.3.3"
